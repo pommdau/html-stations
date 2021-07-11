@@ -14,3 +14,6 @@
 
 - [Visual Studio Codeでhtmlコーディングはリアルタイムプレビューがすごく良い](https://rui-log.com/vscode-html-cording/#toc1)
 
+# Station2
+- [【Git】基本コマンド](https://qiita.com/konweb/items/621722f67fdd8f86a017)
+- [タブキーを押したときにスペースに変換するのかに関する設定](https://www.javadrive.jp/vscode/setting/index9.html#section4)
