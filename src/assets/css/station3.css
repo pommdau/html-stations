@@ -1,6 +1,6 @@
-body {
+/* body {
   background-color: #ffffff;
-}
+} */
 
 p.card__title {
   color: #282828;
@@ -12,12 +12,13 @@ p.card__description {
   font-size: 12px;
 }
 
-div.card {
+.card {
+  background-color: #ffffff;
   padding-top: 5px;
   margin-bottom: 10px;
 }
 
-img.card__img-top {
+.card__img-top {
   width: 288px;
   height: 182px;
 }
