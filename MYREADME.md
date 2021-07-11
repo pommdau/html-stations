@@ -14,6 +14,19 @@
 
 - [Visual Studio Codeでhtmlコーディングはリアルタイムプレビューがすごく良い](https://rui-log.com/vscode-html-cording/#toc1)
 
+## タイポ？
+- `#`の分け方がわかりにくい
+
+>https://github.com/pommdau/html-stations
+
 # Station2
 - [【Git】基本コマンド](https://qiita.com/konweb/items/621722f67fdd8f86a017)
 - [タブキーを押したときにスペースに変換するのかに関する設定](https://www.javadrive.jp/vscode/setting/index9.html#section4)
+
+
+# Station3
+- [CSS【paddingとmarginの使い分け】余白の作り方を徹底解説！](https://web-camp.io/magazine/archives/27339)
+
+## タイポ？
+
+>* 背景の色: #fff
