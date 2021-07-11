@@ -33,3 +33,6 @@
 
 # Statino4
 - `<nav>`...そんなものはない。。。
+
+# Station6
+- [OGPを設定しよう！SNSでシェアされやすい設定方法とは？](https://digitalidentity.co.jp/blog/seo/ogp-share-setting.html)
