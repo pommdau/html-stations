@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 p.card__title {
@@ -12,9 +12,12 @@ p.card__description {
   font-size: 12px;
 }
 
+div.card {
+  padding-top: 5px;
+  margin-bottom: 10px;
+}
+
 img.card__img-top {
   width: 288px;
   height: 182px;
-  padding-top: 5px;
-  margin-bottom: 10px;
 }
