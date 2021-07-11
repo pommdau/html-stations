@@ -1,3 +1,11 @@
+header {
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #C4C4C4;
+}
+
 p.card__title {
   color: #282828;
   font-size: 14px;
@@ -23,4 +31,8 @@ p.card__description {
   margin-bottom: 10px;
   width: 288px;
   height: 182px;
+}
+
+footer {
+  background-color: #ffffff;
 }
