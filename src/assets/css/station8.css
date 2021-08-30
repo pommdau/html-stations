@@ -34,10 +34,31 @@ p.card__description {
 }
 
 ul {
-  -webkit-justify-content: space-between;
+  /* -webkit-justify-content: space-between;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+
+  /* display: -webkit-flex;
+  -webkit-justify-content: space-around;
+  -webkit-align-items: flex-start;
+  -webkit-flex-direction: column;
+  flex-direction: column; */
+  /* height: 200px; */
+}
+
+li {
+  width: 30%;
+  /* 100%を1行当たりのカラム数（今回は3）で割った数値 */
+  /* border: 1px solid black; */
+  /* 飾り */
+  margin: 5px;
+  /* widthの計算簡単にするため（marginも使うための拡張は後で） */
 }
 
 footer {
