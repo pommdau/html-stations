@@ -36,3 +36,6 @@
 
 # Station6
 - [OGPを設定しよう！SNSでシェアされやすい設定方法とは？](https://digitalidentity.co.jp/blog/seo/ogp-share-setting.html)
+- [ツイートにページ情報を表示する「Twitterカード（Twitter Cards）」を設定してみた \| 株式会社グランフェアズ](https://www.granfairs.com/blog/staff/setting-twitter-cards)
+
+# Station7
