@@ -53,6 +53,7 @@ ul {
 }
 
 li {
+  display: flex;
   width: 30%;
   /* 100%を1行当たりのカラム数（今回は3）で割った数値 */
   /* border: 1px solid black; */
