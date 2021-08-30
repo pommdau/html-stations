@@ -33,6 +33,13 @@ p.card__description {
   height: 182px;
 }
 
+ul {
+  -webkit-justify-content: space-between;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 footer {
   background-color: #ffffff;
 }
