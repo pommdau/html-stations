@@ -39,3 +39,5 @@
 - [ツイートにページ情報を表示する「Twitterカード（Twitter Cards）」を設定してみた \| 株式会社グランフェアズ](https://www.granfairs.com/blog/staff/setting-twitter-cards)
 
 # Station7
+- [lang 属性](https://reference.hyper-text.org/html5/attribute/lang/)
+- 
