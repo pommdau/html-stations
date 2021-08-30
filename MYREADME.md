@@ -43,5 +43,5 @@
 
 # Station8
 - https://techbowl.co.jp/techtrain/mypage/railway/1/quest/8
-- 
+- [Flexbox【第2回】justify\-contentとalign\-itemsで楽々レイアウト](https://goodsan.jp/wp/justifycontent/)
 
