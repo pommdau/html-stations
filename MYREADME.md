@@ -40,4 +40,8 @@
 
 # Station7
 - [lang 属性](https://reference.hyper-text.org/html5/attribute/lang/)
+
+# Station8
+- https://techbowl.co.jp/techtrain/mypage/railway/1/quest/8
 - 
+
