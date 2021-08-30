@@ -57,7 +57,7 @@ li {
   /* 100%を1行当たりのカラム数（今回は3）で割った数値 */
   /* border: 1px solid black; */
   /* 飾り */
-  margin: 5px;
+  margin: 10px;
   /* widthの計算簡単にするため（marginも使うための拡張は後で） */
 }
 
