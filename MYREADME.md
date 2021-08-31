@@ -72,3 +72,8 @@ import '../***.js'のように拡張子まで書く
 
 # Station13
 - [JavaScript アロー関数を説明するよ](https://qiita.com/may88seiji/items/4a49c7c78b55d75d693b)
+
+# Station14
+- [Array\.prototype\.map\(\)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [【JavaScript入門】配列処理をするmap\(\)の使い方とMapオブジェクトの解説！ \| 侍エンジニアブログ](https://www.sejuku.net/blog/21812)
+- [JavaScriptの連想配列 \- 追加削除やソート存在チェックも解説](https://www.pasonatech.co.jp/workstyle/column/detail.html?p=2639)
