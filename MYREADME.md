@@ -57,3 +57,13 @@
 - [【学習メモ】JavaScriptの基礎まとめ](https://qiita.com/sho91/items/f32ea4df015976557a07#7%E9%96%A2%E6%95%B0)
 - [テキストを扱う — JavaScript での文字列](https://developer.mozilla.org/ja/docs/Learn/JavaScript/First_steps/Strings)
 - [超絶初心者のためのフロント入門（HTML、CSS、JavaScript）](https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987#4-1-javascript%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%AF2%E9%80%9A%E3%82%8A)
+
+# Station12
+- [JavaScript \- JavaScript 別ファイルからクラスをインポートしたい｜teratail](https://teratail.com/questions/216443)
+
+```
+ブラウザで直接importを扱いたい場合、
+<script>にtype="module"という属性を入れる
+import '../***.js'のように拡張子まで書く
+といった準備が必要です。
+```
