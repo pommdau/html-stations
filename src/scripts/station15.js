@@ -20,6 +20,8 @@ function myFunc(userList) {
   }
 
   return new Promise(resolve => {
-    setTimeout(resolve(userList.map(buildFullName)), 3000)
+    setTimeout(() => {
+      resolve(userList.map(buildFullName))
+    }, 3000);
   })
 }
