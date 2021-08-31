@@ -1,3 +1,7 @@
+# 全般
+- Station一覧
+    - https://techbowl.co.jp/techtrain/mypage/railway/1
+
 # READMEの環境構築
 
 - [mac osのbrew install がうまくいかない \- Qiita](https://qiita.com/aves/items/1195e64fa30402b7e1f6)
