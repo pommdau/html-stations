@@ -67,3 +67,8 @@
 import '../***.js'のように拡張子まで書く
 といった準備が必要です。
 ```
+
+- [JavaScriptのimport文を使ってみた](https://qiita.com/TakamiChie/items/4d92c7e80a9d4cce0178)
+
+# Station13
+- [JavaScript アロー関数を説明するよ](https://qiita.com/may88seiji/items/4a49c7c78b55d75d693b)
