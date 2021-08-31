@@ -8,10 +8,18 @@ export async function getData() {
   ];
   // const result = await test()
   // return await result
-  return userList.map(buildFullName)
+  const result = await myFunc(userList)
+  return result
 }
 
-function buildFullName(data) {
-  data["full_name"] = data.family_name + " " + data.first_name
-  return data
+function myFunc(userList) {
+
+  let buildFullName = (data) => {
+    data["full_name"] = data.family_name + " " + data.first_name
+    return data
+  }
+
+  return new Promise(resolve => {
+    setTimeout(resolve(userList.map(buildFullName)), 3000)
+  })
 }
